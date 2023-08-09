@@ -9,3 +9,5 @@ Key Features:
 - Dynamic enemy AI that adapts to player actions.
 - Health and scoring system to track your progress and achievements.
 - Engaging level design with animations and seamless transitions for a captivating experience.
+
+Play the game here: https://inaas.itch.io/cosmic-carnage.
